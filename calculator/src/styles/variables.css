@@ -1,0 +1,17 @@
+:root{
+  --bg: #f3f5f7;
+  --panel: #ffffff;
+  --border: #d7dbe0;
+  --focus: #3b82f6;
+  --text: #111827;
+  --muted: #6b7280;
+  --accent: #f59e0b; /* equals */
+  --accent-contrast: #1f2937;
+  --key-bg: #f8fafc;
+  --key-bg-hover: #eef2f7;
+  --key-op-bg: #eef2ff;
+  --key-op-border: #c7d2fe;
+  --radius: 8px;
+  --shadow: 0 1px 2px rgba(0,0,0,0.06), 0 4px 12px rgba(0,0,0,0.06);
+  --font: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
